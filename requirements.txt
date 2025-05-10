@@ -1,0 +1,3 @@
+SpeechRecognition
+llama-cpp-python
+pyttsx3
